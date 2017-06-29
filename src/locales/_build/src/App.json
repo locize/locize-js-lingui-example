@@ -1,0 +1,18 @@
+{
+  "Welcome to React": {
+    "origin": [
+      [
+        "src/App.js",
+        12
+      ]
+    ]
+  },
+  "To get started, edit <0>src/App.js</0> and save to reload.": {
+    "origin": [
+      [
+        "src/App.js",
+        16
+      ]
+    ]
+  }
+}
