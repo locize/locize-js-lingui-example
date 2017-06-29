@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Then we added [js-lingui](https://github.com/lingui/js-lingui/tree/master/packages/lingui-react) like documented.
 
-## integrate locize
+## integrate [locize.com](http://locize.com)
 
 Finally the [locizer](https://github.com/locize/locizer) script was added to connect with locize.
 
